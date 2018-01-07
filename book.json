@@ -38,9 +38,6 @@
     "github": {
       "url": "https://github.com/zouyapeng"
     },
-    "disqus": {
-        "shortName": "Comment"
-    },
     "terminal": {
             "copyButtons": true,
             "fade": false,
