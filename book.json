@@ -2,5 +2,33 @@
   "title": "个人Wiki",
   "description": "",
   "language": "zh",
-  "plugins": []
+  "plugins": [
+    "prism",
+    "-highlight",
+    "splitter",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "book-summary-scroll-position-saver",
+    "toggle-chapters",
+    "atoc",
+    "spoiler",
+    "github",
+    "disqus",
+    "advanced-emoji",
+    "terminal"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/zouyapeng"
+    },
+    "disqus": {
+        "shortName": "gitbookuse"
+    },
+    "terminal": {
+            "copyButtons": true,
+            "fade": false,
+            "style": "flat"
+    }
+  }
 }
