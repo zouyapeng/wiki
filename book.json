@@ -2,13 +2,5 @@
   "title": "个人Wiki",
   "description": "",
   "language": "zh",
-  "plugins": [
-    "prism",
-    "-highlight",
-    "splitter",
-    "book-summary-scroll-position-saver",
-    "toggle-chapters",
-    "atoc",
-    "spoiler"
-  ]
+  "plugins": []
 }
