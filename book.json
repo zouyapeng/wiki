@@ -1,12 +1,9 @@
 {
-  "title": "个人Wiki",
+  "title": "Gitbook As Wiki",
   "description": "",
   "author": "Zouyapeng",
   "output.name": "site",
   "language": "zh-hans",
-  "structure": {
-        "readme": "SUMMARY.md"
-  },
   "plugins": [
     "-lunr",
     "-search",

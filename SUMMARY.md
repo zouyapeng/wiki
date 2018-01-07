@@ -1,6 +1,6 @@
 # Summary
 
-* [Info](README.md)
+* [Introduction](README.md)
 * [知识总结](KnowledgeSummary/README.md)
    * [操作系统](KnowledgeSummary/OS/README.md)
       * [Linux](KnowledgeSummary/OS/linux.md)
