@@ -1,11 +1,6 @@
 # Summary
 
 * [Info](README.md)
-* [个人学习周结](LearningSummary/README.md)
-   * [2017](LearningSummary/2017/README.md)
-   * [2018](LearningSummary/2018/README.md)
-      * [1月](LearningSummary/2018/1.md)
-      * [2月](LearningSummary/2018/2.md)
 * [知识总结](KnowledgeSummary/README.md)
    * [操作系统](KnowledgeSummary/OS/README.md)
       * [Linux](KnowledgeSummary/OS/linux.md)
@@ -19,5 +14,10 @@
    * [AWS](Technology/AWS/README.md)
    * [OpenStack](Technology/OpenStack/README.md)
    * [AI](Technology/AI/README.md)
+* [个人学习周结](LearningSummary/README.md)
+   * [2018](LearningSummary/2018/README.md)
+      * [1月](LearningSummary/2018/1.md)
+      * [2月](LearningSummary/2018/2.md)
+   * [2017](LearningSummary/2017/README.md)
 * [个人](PersonalRelated/README.md)
    * [电影](PersonalRelated/Movie/README.md)
