@@ -1,4 +1,4 @@
 # wiki
-Use GitBook as a wiki for test.
+Use GitBook as a wiki.
 
 
