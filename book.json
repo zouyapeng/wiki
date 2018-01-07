@@ -5,6 +5,7 @@
   "output.name": "site",
   "language": "zh-hans",
   "plugins": [
+    "-livereload",
     "-lunr",
     "-search",
     "search-plus",
@@ -19,9 +20,9 @@
     "advanced-emoji",
     "terminal",
     "donate",
-    "local-video",
+    "-local-video",
     "copy-code-button",
-    "alerts"
+    "-alerts"
   ],
   "pluginsConfig": {
     "github": {
