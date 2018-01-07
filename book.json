@@ -2,9 +2,6 @@
   "title": "个人Wiki",
   "description": "",
   "language": "zh-Hans",
-  "theme-default": {
-    "showLevel": true
-  },
   "plugins": [
     "prism",
     "-highlight",
@@ -13,7 +10,7 @@
     "-search",
     "search-plus",
     "book-summary-scroll-position-saver",
-    "atoc",
+    "toggle-chapters",
     "spoiler",
     "github",
     "disqus",
@@ -31,6 +28,9 @@
             "copyButtons": true,
             "fade": false,
             "style": "flat"
+    },
+    "theme-default": {
+         "showLevel": true
     }
   }
 }
