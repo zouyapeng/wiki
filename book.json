@@ -14,7 +14,7 @@
     "-highlight",
     "splitter",
     "book-summary-scroll-position-saver",
-    "toggle-chapters",
+    "-toggle-chapters",
     "spoiler",
     "github",
     "advanced-emoji",
