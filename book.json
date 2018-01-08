@@ -20,7 +20,7 @@
     "advanced-emoji",
     "donate",
     "-local-video",
-    "copy-code-button",
+    "-copy-code-button",
     "-alerts"
   ],
   "pluginsConfig": {
