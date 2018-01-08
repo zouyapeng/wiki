@@ -10,15 +10,15 @@
     "-search",
     "search-plus",
     "sectionx",
-    "prism",
+    "-prism",
     "-highlight",
+    "highlight-pro",
     "splitter",
     "book-summary-scroll-position-saver",
     "toggle-chapters",
     "spoiler",
     "github",
     "advanced-emoji",
-    "terminal",
     "donate",
     "-local-video",
     "copy-code-button",
@@ -29,18 +29,25 @@
       "url": "https://github.com/zouyapeng"
     },
     "terminal": {
-            "copyButtons": true,
-            "fade": false,
-            "style": "flat"
+      "copyButtons": true,
+      "fade": false,
+      "style": "flat"
     },
     "theme-default": {
-         "showLevel": true
+      "showLevel": true
     },
     "donate": {
-        "alipay": "https://raw.githubusercontent.com/zouyapeng/Image/master/alipay.png",
-        "title": "",
-        "button": "赏",
-        "alipayText": "支付宝打赏"
+      "alipay": "https://raw.githubusercontent.com/zouyapeng/Image/master/alipay.png",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝"
+    },
+    "highlight-pro": {
+      "theme": "tomorrow-night",
+      "map": {
+        "shell": "bash",
+        "sh": "bash"
+      }
     },
     "anchor-navigation-ex": {
             "isRewritePageTitle": true,
