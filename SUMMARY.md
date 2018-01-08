@@ -6,6 +6,7 @@
       * [Python](KnowledgeSummary/Language/Python/README.md)
       * [Shell](KnowledgeSummary/Language/Shell/README.md)
       * [Go](KnowledgeSummary/Language/Go/README.md)
+      * [GitBook](KnowledgeSummary/Language/GitBook/README.md)
    * [操作系统](KnowledgeSummary/OS/README.md)
       * [Linux](KnowledgeSummary/OS/Linux/README.md)
          * [常用的命令](KnowledgeSummary/OS/Linux/CommonCommands.md)
