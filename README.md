@@ -1,2 +1,3 @@
-# Use Gitbook as Wiki
-![Local Image](./images/coding.gif)
+<center>
+<img src="./images/coding.gif" align="center">
+</center>
