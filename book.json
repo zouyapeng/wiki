@@ -14,7 +14,7 @@
     "-highlight",
     "splitter",
     "book-summary-scroll-position-saver",
-    "-toggle-chapters",
+    "toggle-chapters",
     "spoiler",
     "github",
     "advanced-emoji",
@@ -33,7 +33,7 @@
       "style": "flat"
     },
     "theme-default": {
-      "showLevel": true
+      "showLevel": false
     },
     "donate": {
       "alipay": "https://raw.githubusercontent.com/zouyapeng/Image/master/alipay.png",
