@@ -1,7 +1,2 @@
-# wiki
-Use GitBook as a wiki.
-:clap: 
-:muscle: 
-:metal: 
-:eggplant: 
-:blush:
+# Use Gitbook as Wiki
+![Local Image](./images/coding.gif)
