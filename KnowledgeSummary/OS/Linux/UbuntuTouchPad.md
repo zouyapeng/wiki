@@ -1,5 +1,5 @@
 # xSwipe
-xSwipe is multitouch gesture recognizer. This script make your linux PC able to recognize swipes like a Macbook.
+> xSwipe is multitouch gesture recognizer. This script make your linux PC able to recognize swipes like a Macbook.
 
 ## Get xSwipe
 ```bash

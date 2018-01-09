@@ -21,6 +21,7 @@
          * [Ubuntu Touch Pad](KnowledgeSummary/OS/Linux/UbuntuTouchPad.md)
          * [Apache Auth](KnowledgeSummary/OS/Linux/ApacheAuth.md)
       * [Mac](KnowledgeSummary/OS/Mac/README.md)
+         * [iTerm2 快捷键大全](KnowledgeSummary/OS/Mac/)
 * [技术](Technology/README.md)
    * [Docker](Technology/Docker/README.md)
    * [AWS](Technology/AWS/README.md)
