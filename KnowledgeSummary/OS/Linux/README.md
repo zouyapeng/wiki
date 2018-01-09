@@ -10,3 +10,5 @@
 * [Find Usage](KnowledgeSummary/OS/Linux/Find.md)
 * [Ubuntu Touch Pad](KnowledgeSummary/OS/Linux/UbuntuTouchPad.md)
 * [Apache Auth](KnowledgeSummary/OS/Linux/ApacheAuth.md)
+* [Git Usage](KnowledgeSummary/OS/Linux/GitUsage.md)
+* [Ubuntu Install PyCharm](KnowledgeSummary/OS/Linux/UbuntuInstallPyCharm.md)
