@@ -11,7 +11,7 @@
       * [Linux](KnowledgeSummary/OS/Linux/README.md)
          * [Ubuntu Source](KnowledgeSummary/OS/Linux/UbuntuSource.md)
          * [Common Commands](KnowledgeSummary/OS/Linux/CommonCommands.md)
-         * [SSH Usage](KnowledgeSummary/OS/Linux/ssh.md)
+         * [SSH Usage](KnowledgeSummary/OS/Linux/SSH.md)
          * [Test Disk IO](KnowledgeSummary/OS/Linux/DiskIO.md)
          * [History Show Time](KnowledgeSummary/OS/Linux/HistoryShowTime.md)
          * [Screen Usage](KnowledgeSummary/OS/Linux/Screen.md)
