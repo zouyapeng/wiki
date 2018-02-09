@@ -39,6 +39,9 @@ git checkout master
 # 删除分支
 git branch -d feature_new
 
+# 重命名分支
+git branch -m new_name
+
 # 将分支推送远端 
 git push origin <branch>
 ```
