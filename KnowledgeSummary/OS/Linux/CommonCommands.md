@@ -35,3 +35,19 @@ gsettings set org.compiz.unityshell:/org/compiz/profiles/unity/plugins/unityshel
 dconf write /org/compiz/profiles/unity/plugins/core/hsize 4
 dconf write /org/compiz/profiles/unity/plugins/core/vsize 1
 ```
+
+### Mysql 
+```mysql
+# 查看现有连接
+SHOW [FULL] PROCESSLIST;
+
+# 查看DB size
+SELECT table_schema AS "Database name", SUM(data_length + index_length) / 1024 / 1024 AS "Size (MB)" FROM information_schema.TABLES where table_schema = "memory" GROUP BY table_schema;
+
+SELECT 
+     table_schema as `Database`, 
+     table_name AS `Table`, 
+     round(((data_length + index_length) / 1024 / 1024), 2) `Size in MB` 
+FROM information_schema.TABLES WHERE table_schema = "<your db_name>"
+ORDER BY (data_length + index_length) DESC;
+```
