@@ -158,8 +158,8 @@ for i, name in enumerate(names):
 # Not So Good
 count = 0
 for name in names:
-    print(i, name) # 0 Safe, 1 George etc.
-    count += 1
+    print(i, name) # 0 Safe, 1 George etc.
+    count += 1
 ```
 
 
