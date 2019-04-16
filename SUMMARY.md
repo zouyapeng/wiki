@@ -23,6 +23,8 @@
       * [Go Logger](KnowledgeSummary/Language/Go/GoLogger.md)
       * [Go ArgParse](KnowledgeSummary/Language/Go/GoArgParse.md)
       * [Go Routing（gorilla/mux）](KnowledgeSummary/Language/Go/GoRouting_gorilla-mux.md)
+      * [Go Mysql](KnowledgeSummary/Language/Go/GoMysql.md)
+      * [Go Redis](KnowledgeSummary/Language/Go/GoRedis.md)
     * [GitBook](KnowledgeSummary/Language/GitBook/README.md)
   * [操作系统](KnowledgeSummary/OS/README.md)
     * [Linux](KnowledgeSummary/OS/Linux/README.md)
