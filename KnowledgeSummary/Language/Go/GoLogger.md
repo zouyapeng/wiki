@@ -1,4 +1,4 @@
-## Go Logger
+## Go Base Logger
 
 ### Base Example
 
@@ -15,10 +15,10 @@ func init(){
 func main() {
 // Println writes to the standard logger.
     log.Println("main started")
- 
+
 // Fatalln is Println() followed by a call to os.Exit(1)
     log.Fatalln("fatal message")
- 
+
 // Panicln is Println() followed by a call to panic()
     log.Panicln("panic message")
 }
@@ -84,6 +84,61 @@ func main() {
     Info.Println("Special Information")
     Warning.Println("There is something you need to know about")
     Error.Println("Something has failed")
+}
+```
+
+
+
+## Go Advanced Logger\(github.com/Sirupsen/logrus\)
+
+### Base example
+
+```go
+package main
+import (
+  log "github.com/Sirupsen/logrus"
+  "github.com/logmatic/logmatic-go"
+)
+func main() {
+    // use JSONFormatter
+    log.SetFormatter(&logmatic.JSONFormatter{})
+    // log an event as usual with logrus
+    log.WithFields(log.Fields{"string": "foo", "int": 1, "float": 1.1 }).Info("My first ssl event from golang")
+}
+```
+
+Rotating Example
+
+```go
+package main
+import (
+  log "github.com/Sirupsen/logrus"
+  "gopkg.in/natefinch/lumberjack.v2"
+)
+
+func init(){
+    log.SetOutput(&lumberjack.Logger{
+	Filename:   "Rotating.log",
+	MaxSize:    10, // megabytes
+	MaxBackups: 5,
+	MaxAge:     1, // days
+	Compress:   false,
+    })
+    
+    log.SetFormatter(
+        &log.TextFormatter{
+            TimestampFormat: "2006-01-02 15:04:05",
+	    FullTimestamp:   true,
+	    DisableColors:   false,
+	}
+    )
+    
+    log.SetLevel(log.InfoLevel)
+}
+
+func main() {
+    // log an event as usual with logrus
+    log.WithFields(log.Fields{"string": "foo", "int": 1, "float": 1.1 }).Info("My first ssl event from golang")
 }
 ```
 
