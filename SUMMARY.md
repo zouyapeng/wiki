@@ -86,4 +86,6 @@
   * [网络](DockerLearningNotes/Network/README.md)
     * [外部访问](DockerLearningNotes/Network/WaiBuFangWen.md)
     * [容器互联](DockerLearningNotes/Network/RongQiHuLian.md)
+* [Machine Learning 学习笔记](MachineLearningNotes.md)
+  * [基础知识](MachineLearningNotes/BasicKnowledge.md)
 
