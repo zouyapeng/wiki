@@ -13,3 +13,4 @@
 * [Git Usage](GitUsage.md)
 * [Ubuntu Install PyCharm](UbuntuInstallPyCharm.md)
 * [使用ngrok实现内网穿透](Ngrok.md)
+* [Install OpenTSDB](InstallOpenTSDB.md)

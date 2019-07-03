@@ -39,6 +39,7 @@
          * [Git Usage](KnowledgeSummary/OS/Linux/GitUsage.md)
          * [Ubuntu Install PyCharm](KnowledgeSummary/OS/Linux/UbuntuInstallPyCharm.md)
          * [使用ngrok实现内网穿透](KnowledgeSummary/OS/Linux/Ngrok.md)
+         * [Install OpenTSDB](KnowledgeSummary/OS/Linux/InstallOpenTSDB.md)
       * [Mac](KnowledgeSummary/OS/Mac/README.md)
          * [iTerm2 快捷键大全](KnowledgeSummary/OS/Mac/ITerm2ShortcutKey.md)
 * [技术](Technology/README.md)
